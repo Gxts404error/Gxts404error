@@ -50,13 +50,4 @@
 
 - 🔗 [**travazapbyken**](https://github.com/Gxts404error/travazapbyken) — Automação em JavaScript, parte dos meus estudos de automação web e cybersecurity.
 
-### 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gxts404error&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxts404error&theme=dark&hide_border=true" height="165">
-</p>
-
----
-
 <p align="center"><i>Aberto a oportunidades em Monitoramento, NOC, Infraestrutura, Redes e SOC.</i></p>
