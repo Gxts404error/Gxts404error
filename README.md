@@ -34,8 +34,18 @@
 
 **Redes**
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-333333?style=flat-square)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS%2FDHCP%2FNAT-333333?style=flat-square)
+![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-333333?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-333333?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-333333?style=flat-square)
+![NAT/CGNAT](https://img.shields.io/badge/NAT%2FCGNAT-333333?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN-333333?style=flat-square)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-333333?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat-square&logo=huawei&logoColor=white)
+![Fiberhome](https://img.shields.io/badge/Fiberhome-333333?style=flat-square)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 **Cloud & Security**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
