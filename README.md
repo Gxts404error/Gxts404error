@@ -53,11 +53,9 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Linguagens**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 📌 Projetos em destaque
-
-- 🔗 [**travazapbyken**](https://github.com/Gxts404error/travazapbyken) — Automação em JavaScript, parte dos meus estudos de automação web e cybersecurity.
 
 <p align="center"><i>Aberto a oportunidades em Monitoramento, NOC, Infraestrutura, Redes e SOC.</i></p>
